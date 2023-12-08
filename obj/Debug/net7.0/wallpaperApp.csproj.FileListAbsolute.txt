@@ -1,0 +1,17 @@
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\wallpaperApp.exe
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\wallpaperApp.deps.json
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\wallpaperApp.runtimeconfig.json
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\wallpaperApp.dll
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\wallpaperApp.pdb
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.csproj.AssemblyReference.cache
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.AssemblyInfoInputs.cache
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.AssemblyInfo.cs
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.csproj.CoreCompileInputs.cache
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.dll
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\refint\wallpaperApp.dll
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.pdb
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.genruntimeconfig.cache
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\ref\wallpaperApp.dll
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\jgamb\OneDrive\Documentos\wallpaperApp\obj\Debug\net7.0\wallpaperApp.csproj.CopyComplete
